@@ -12,6 +12,7 @@ namespace WindowsFormsApplication35
 {
     public partial class Form1 : Form
     {
+        // добавляем счетчик
         private int i = 0;
         public Form1()
         {
